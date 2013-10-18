@@ -1,3 +1,7 @@
+/*
+ * Commento di prova
+ */
+
 #include <cstdlib>  // per EXIT_SUCCESS
 #include <iostream> // per std::cout e std::endl
  
